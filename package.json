@@ -1,0 +1,18 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node .",
+    "nodemon":"nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
